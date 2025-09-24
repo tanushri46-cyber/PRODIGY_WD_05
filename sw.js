@@ -1,9 +1,9 @@
 const CACHE_NAME = "weather-app-v1";
 const urlsToCache = [
   "/",
-  "/Task 5.html",
-  "/Task 5.css",
-  "/Task 5.js",
+  "/Task5.html",
+  "/Task5.css",
+  "/Task5.js",
   "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
 ];
 
